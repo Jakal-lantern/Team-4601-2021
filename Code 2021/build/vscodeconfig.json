@@ -1,0 +1,399 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\CircuitBirds\\.gradle\\toolchains\\frc\\2021\\roborio\\bin\\arm-frc2021-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\CircuitBirds\\.gradle\\toolchains\\frc\\2021\\roborio\\bin\\arm-frc2021-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+      "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\f7a6c3182e2274e123f8d3934930782a\\wpilibOldCommands-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fad106a54ea94a1364bced97adea2d5f\\wpilibc-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\0536abcb3d38ba459c4d9fdaee5c31e4\\ntcore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\6b5f83207ef9a80c654b0e10a1ec2b39\\hal-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\d8712837c673a9ebfc7a468123f235dc\\wpiutil-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\526f803c7235cccede555d3d1417698d\\wpimath-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\97ddc155d2c853c64035b94d618c12dc\\cameraserver-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\cecbd89bfd29525f2c9f8ebe806eb040\\cscore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e0cd6fb1fcd99b8d3dbe547519a7ae2a\\opencv-cpp-3.4.7-5-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\f7a6c3182e2274e123f8d3934930782a\\wpilibOldCommands-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fad106a54ea94a1364bced97adea2d5f\\wpilibc-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\0536abcb3d38ba459c4d9fdaee5c31e4\\ntcore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\6b5f83207ef9a80c654b0e10a1ec2b39\\hal-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\d8712837c673a9ebfc7a468123f235dc\\wpiutil-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\526f803c7235cccede555d3d1417698d\\wpimath-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\97ddc155d2c853c64035b94d618c12dc\\cameraserver-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\cecbd89bfd29525f2c9f8ebe806eb040\\cscore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e0cd6fb1fcd99b8d3dbe547519a7ae2a\\opencv-cpp-3.4.7-5-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+      "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+          "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\CircuitBirds\\.gradle\\toolchains\\frc\\2021\\roborio\\bin\\arm-frc2021-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\CircuitBirds\\.gradle\\toolchains\\frc\\2021\\roborio\\bin\\arm-frc2021-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+      "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\f7a6c3182e2274e123f8d3934930782a\\wpilibOldCommands-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fad106a54ea94a1364bced97adea2d5f\\wpilibc-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\0536abcb3d38ba459c4d9fdaee5c31e4\\ntcore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\6b5f83207ef9a80c654b0e10a1ec2b39\\hal-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\d8712837c673a9ebfc7a468123f235dc\\wpiutil-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\526f803c7235cccede555d3d1417698d\\wpimath-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\97ddc155d2c853c64035b94d618c12dc\\cameraserver-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\cecbd89bfd29525f2c9f8ebe806eb040\\cscore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e0cd6fb1fcd99b8d3dbe547519a7ae2a\\opencv-cpp-3.4.7-5-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\f7a6c3182e2274e123f8d3934930782a\\wpilibOldCommands-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fad106a54ea94a1364bced97adea2d5f\\wpilibc-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\0536abcb3d38ba459c4d9fdaee5c31e4\\ntcore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\6b5f83207ef9a80c654b0e10a1ec2b39\\hal-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\d8712837c673a9ebfc7a468123f235dc\\wpiutil-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\526f803c7235cccede555d3d1417698d\\wpimath-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\97ddc155d2c853c64035b94d618c12dc\\cameraserver-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\cecbd89bfd29525f2c9f8ebe806eb040\\cscore-cpp-2021.1.2-sources\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e0cd6fb1fcd99b8d3dbe547519a7ae2a\\opencv-cpp-3.4.7-5-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+      "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+      "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\9c6c49ea5695e51f3f2476e4a6047b9a\\adis16470-cpp-2020.r4-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\132b600f489d2e3a6529c3ae882b6f7b\\wpilibOldCommands-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\c533a74d9c52298b63715bc6e8d201b7\\wpilibc-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fb16ec2cad77c0f76af40876a5a1978c\\ntcore-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\a9b4bac545c6f25eafa53493ee5fd8eb\\hal-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\e5f5c5ebea50be6c02e5ceb64ef495e7\\wpiutil-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\2110d36bc52fb79c3fb8cbb3870e6c19\\wpimath-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\31e51bbea9f75ec5368c0592c21a07be\\chipobject-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\62bbb52e2dd95e8386a7e8afc35f2e2a\\netcomm-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\5137cfbadcecc0833be05d25cdafe03a\\visa-2020.10.1-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\fac74e7708b713ac2a7e95befbd72582\\cameraserver-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\b7438c158f7e6dc07447ce02c1d63594\\cscore-cpp-2021.1.2-headers\\",
+          "C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-2\\files-2.1\\4e93bdf9ecc0fd6b92b492a6845b970b\\opencv-cpp-3.4.7-5-headers\\",
+          "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\CircuitBirds\\Desktop\\Code 2021\\src\\main\\include\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]

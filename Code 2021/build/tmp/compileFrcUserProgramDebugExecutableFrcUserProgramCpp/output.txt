@@ -1,0 +1,25 @@
+See file:///C:/Users/CircuitBirds/Desktop/Code%202021/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp failed.
+C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:7:0: warning: ignoring #pragma region  [-Wunknown-pragmas]
+ #pragma region // References
+ 
+In file included from C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:20:0:
+C:\Users\CircuitBirds\.gradle\caches\transforms-2\files-2.1\c533a74d9c52298b63715bc6e8d201b7\wpilibc-cpp-2021.1.2-headers/frc/WPILib.h:11:2: warning: #warning is a GCC extension
+ #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead."
+  ^~~~~~~
+C:\Users\CircuitBirds\.gradle\caches\transforms-2\files-2.1\c533a74d9c52298b63715bc6e8d201b7\wpilibc-cpp-2021.1.2-headers/frc/WPILib.h:11:2: warning: #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead." [-Wcpp]
+C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:40:0: warning: ignoring #pragma endregion  [-Wunknown-pragmas]
+ #pragma endregion
+ 
+C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:47:0: warning: ignoring #pragma region  [-Wunknown-pragmas]
+   #pragma region // Initialization
+ 
+C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:44:7: error: redefinition of 'class Robot'
+ class Robot : public TimedRobot
+       ^~~~~
+In file included from C:\Users\CircuitBirds\Desktop\Code 2021\src\main\cpp\Robot.cpp:9:0:
+C:\Users\CircuitBirds\Desktop\Code 2021\src\main\include/Robot.h:12:7: note: previous definition of 'class Robot'
+ class Robot : public frc::TimedRobot {
+       ^~~~~
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/CircuitBirds/Desktop/Code%202021/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
